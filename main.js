@@ -17,7 +17,7 @@ const items = document.querySelectorAll('.item');
 
 // items.forEach((item) => console.log(item));
 
-// Modifying:
+// Modifying
 
 const ul = document.querySelector('.items');
 
